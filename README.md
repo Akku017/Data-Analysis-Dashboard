@@ -20,7 +20,7 @@ product-level analysis through interactive filters and visualizations.
 
 ## 📁 Dataset Used
 
--   [Sales Dataset](Sales_data.csv)
+-  <a href= "https://github.com/Akku017/Data-Analysis-Dashboard/blob/main/sales_data.csv">Dataset</a>
 
 The dataset contains sales-related information used to analyze revenue,
 profit, quantity sold, product categories, regions, sales
