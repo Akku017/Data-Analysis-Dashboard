@@ -18,3 +18,10 @@ make data-driven decisions.
 The dashboard provides both a high-level overview and detailed
 product-level analysis through interactive filters and visualizations.
 
+## 📁 Dataset Used
+
+-   [Sales Dataset](Sales_data.csv)
+
+The dataset contains sales-related information used to analyze revenue,
+profit, quantity sold, product categories, regions, sales
+representatives, sales channels and time-based performance.
