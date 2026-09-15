@@ -66,3 +66,20 @@ representatives, sales channels and time-based performance.
 ## Dashboard
 <img width="1322" height="745" alt="Dashboard" src="https://github.com/user-attachments/assets/858f3eea-1c91-46f6-882d-21c3f686aaa4" />
 
+## 🔎 Key Insights
+
+-   Total revenue is approximately **\$70.33M** and total profit is
+    **\$6.49M**.
+-   Overall profit margin is **9.22%**.
+-   **North** is the highest-revenue region among the displayed regions.
+-   **Clothing** is the highest-revenue product category.
+-   **Retail** contributes slightly more revenue than Online sales.
+-   **David** is the highest-performing sales representative in the
+    displayed ranking.
+-   Monthly and quarterly analysis makes changes in revenue performance
+    easy to identify.
+    
+## Final Conclusion:
+
+To improve overall sales and profitability, a strategic approach should focus on strengthening performance in the North region and promoting the Clothing category, which currently generate the highest revenue. Since the Retail channel contributes slightly more revenue than Online sales, targeted promotions can also be used to further strengthen this channel while maintaining the growth of Online sales. The performance of leading sales representatives and top-performing products should be leveraged, while low-performing products should be analyzed for improvement. By focusing on regional performance, product categories, sales channels and product-level insights, the business can identify growth opportunities, improve profitability and make more informed data-driven decisions.
+
