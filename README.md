@@ -64,3 +64,5 @@ representatives, sales channels and time-based performance.
     consistent colors, rounded cards, icons and visual hierarchy.
 
 ## Dashboard
+<img width="1322" height="745" alt="Dashboard" src="https://github.com/user-attachments/assets/858f3eea-1c91-46f6-882d-21c3f686aaa4" />
+
