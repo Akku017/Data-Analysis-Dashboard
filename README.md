@@ -25,3 +25,14 @@ product-level analysis through interactive filters and visualizations.
 The dataset contains sales-related information used to analyze revenue,
 profit, quantity sold, product categories, regions, sales
 representatives, sales channels and time-based performance.
+
+## 🛠️ Tools & Technologies
+
+  Tool                     Purpose
+  ------------------------ ---------------------------------------
+  **Microsoft Power BI**   Dashboard development & visualization
+  **Power Query**          Data cleaning & transformation
+  **DAX**                  KPI and business measure calculations
+  **CSV Dataset**          Source data
+  **Data Visualization**   Business performance analysis
+
